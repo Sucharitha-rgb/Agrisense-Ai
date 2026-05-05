@@ -1,6 +1,6 @@
 🌾 AgriSense AI
 
-AgriSense AI is an AI-powered smart agriculture platform that helps farmers detect crop diseases, get real-time advisory, and make data-driven decisions using modern AI, edge computing, and cloud technologies.
+AgriSense AI is an AI-powered smart agriculture platform that helps farmers detect crop diseases, get real-time advisory, and make data-driven decisions using modern AI.
 
 🚀 Features
 🌿 Crop Disease Detection
